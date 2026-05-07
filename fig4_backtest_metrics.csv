@@ -1,0 +1,2 @@
+﻿strategy,strategy_total_return,buy_hold_total_return,strategy_max_drawdown,buy_hold_max_drawdown,number_of_trades,transaction_cost,n_test_points
+M5_long_cash,1.5081851975708744,-0.10607868727680414,-0.1738393361177336,-0.27016414930870125,591,0.0,2529

@@ -1,0 +1,4 @@
+﻿split,n_rows_before_window,start_time,end_time,target_col,positive_class_rate,negative_class_rate,seq_len,target_horizon_hours,split_method,normalization
+train,12303,2021-01-02 00:00:00,2022-05-29 14:00:00,target_trend_4h,0.5036982849711452,0.4963017150288548,24,4,chronological_70_15_15,scalers_fit_on_training_set_only
+validation,2636,2022-05-29 15:00:00,2022-09-16 10:00:00,target_trend_4h,0.4954476479514416,0.5045523520485584,24,4,chronological_70_15_15,scalers_fit_on_training_set_only
+test,2637,2022-09-16 11:00:00,2023-01-04 07:00:00,target_trend_4h,0.49791429654910885,0.5020857034508912,24,4,chronological_70_15_15,scalers_fit_on_training_set_only

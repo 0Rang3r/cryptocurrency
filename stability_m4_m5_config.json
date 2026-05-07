@@ -1,0 +1,14 @@
+{
+  "seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "models": [
+    "M4_Vanilla_Adaptive",
+    "M5_Ultimate_Adaptive_Emotion"
+  ],
+  "m4_cache": "./dataset_cache\\adaptive_dataset_v2.pt",
+  "m5_cache": "./dataset_cache\\adaptive_dataset_m5plus.pt",
+  "split": "chronological 70/15/15"
+}
